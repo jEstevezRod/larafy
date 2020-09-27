@@ -1,0 +1,16 @@
+{
+  "name": "jestevez/larafy",
+  "type": "package",
+  "description": "Your package description goes here",
+  "keywords": ["laravel","php","framework","library"],
+  "homepage": "https://jestevezrod.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jesus Estevez",
+      "email": "jesestrod1@gmail.com",
+      "homepage": "https://jestevezrod.com",
+      "role": "Creator"
+    }
+  ]
+}
